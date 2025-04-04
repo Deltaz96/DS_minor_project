@@ -1,1 +1,1 @@
-# minor_project_DS
+DS mini project
