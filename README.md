@@ -19,8 +19,6 @@ Use `gcc` or any C compiler of your choice:
 gcc calculator.c -o calculator -lm
 ```
 
-> The `-lm` flag links the math library required for `sqrt()` and `pow()`.
-
 ## How to Run
 
 ```bash
